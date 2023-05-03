@@ -1,5 +1,5 @@
 /* Programa del KinyOne. 
- *  Programador: Luis Rolando Colop Tzoc 202308052 UMES -CTEISA 18/03/2023 11:48
+ *  Programador: Luis Rolando Colop Tzoc  -CTEISA 18/03/2023 11:48
  *  NUEVO DISE;O,
  *  Acciones: Servo, motorreductor, bluettoh. 
 */
